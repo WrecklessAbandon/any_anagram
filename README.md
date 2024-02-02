@@ -2,10 +2,10 @@
 ## Purpose
 Feed in any assortment of letters and find all possible anagrams and anagram phrases with those letters.
 
-EG Input:  
-Clint Eastwood  
-EG Output:  
-Old West Action
+EG:  
+__Clint Eastwood__  
+Output:  
+__Old West Action__
 
 All possible combinations of words in the anagram output will not be printed. A 5 word return would print 120 combinations, for that reason, only the first combination of a 5 word output will be printed.
 
